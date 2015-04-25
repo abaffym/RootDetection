@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RootDetection</string>
+
+    <string name="rooted">This device is rooted</string>
+    <string name="not_rooted">This device is not rooted</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh">refresh</string>
+</resources>
